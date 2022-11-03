@@ -7,7 +7,7 @@ public class flower_bouquet_billing{
     {
         existing_model u1 = new existing_model();
         customised_model c1 = new customised_model();
-        System.out.println("\n\n\nWelcome to Girikalaa Flower Shop\n\nPress -1- to get an existing model\nPress -2- to get a customised model");
+        System.out.println("\n\n\nWelcome to Flower Bee !\n\nPress -1- to get an existing model\nPress -2- to get a customised model");
         int choice=sc.nextInt();
         int bill=0;
         if(choice == 1)
