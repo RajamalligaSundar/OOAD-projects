@@ -1,6 +1,4 @@
 package SwitchONOFF;
-import java.util.*;
-
 class trackONOFF {
    
     //0 open circuit -light off
