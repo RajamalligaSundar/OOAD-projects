@@ -25,7 +25,5 @@ public class SwitchONOFF {
             //invalid - input
             System.out.println("Invalid Input");
         }
-        
     }
-    
 }
